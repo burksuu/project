@@ -1,6 +1,6 @@
 # project
 
-## Projenin amacı:
+## Purpose of the project:
 
-### Hazır hızlı form aracıdır. 
+### It is a ready-made quick form tool.
 
