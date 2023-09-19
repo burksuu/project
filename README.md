@@ -1,6 +1,3 @@
-# project
+# SIMPLE EXERCISES HTML
 
-## Purpose of the project:
-
-### It is a ready-made quick form tool.
-
+The codes here contain my html exercises.
